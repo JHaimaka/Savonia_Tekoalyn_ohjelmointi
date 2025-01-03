@@ -1,3 +1,3 @@
-## Savonia AMK Savonia Tekoälyn ohjelmointi (python ja AI)
+## Savonia AMK Tekoälyn ohjelmointi (python ja AI)
 
 ![Sisältö](sisalto.png) 
